@@ -8,7 +8,7 @@ User-friendly form 📝
 Input validation 🔍
 Real-time feedback 💬
 
-𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁:
+𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁
 Form handling 🖱️
 Error/success states ✅❌
 Email regex validation 📧
